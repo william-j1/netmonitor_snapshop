@@ -59,8 +59,3 @@ python main.py -sp true
 | m    | the number of minutes to wait between each process cycle             |
 | mr   | flag to produce multiple instead of a single document report         |
 | sp   | flag to undertake a single pass through producing one report         |
-
-## License
-
-Copyright 2024 William Johnson
-
