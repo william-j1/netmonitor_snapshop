@@ -103,7 +103,7 @@ class ReportWriter:
     def write(cl, il, mr = False):
 
         date_t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        filepath_t = 'nlabs.studio_report.htm' if not mr else date_t.replace(':', '_').replace('-', '_') + '_nlabs.studio_report.htm'
+        filepath_t = 'report.htm' if not mr else date_t.replace(':', '_').replace('-', '_') + '_report.htm'
 
         f = open(filepath_t, 'w', encoding='utf-8')
         f.write("<html>")
