@@ -1,6 +1,6 @@
-## NLabs Netmonitor Snapshot
+## Netmonitor Snapshot
 
-![Netmonitor Snapshot](sample.png)
+![snapshot](sample.png)
 
 Netmonitor snapshot is a report generator which produces readable html documents to outline the active TCP/UDP connections active on host machines. Its a useful utility for network load diagnostics and investigating what connections and ports are being utilised against the host machine.
 
